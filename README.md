@@ -28,7 +28,6 @@
 ## 🚀 **Hablemos y colaboremos**  
 🔗 ¡Estoy abierto a nuevas oportunidades y conexiones!  
 📧 **Email:** [cristian.mora3808@gmail.com] 
-🌐 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
 
 📈 ¡Gracias por visitar mi perfil! 🌟  
 
