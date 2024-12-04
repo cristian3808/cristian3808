@@ -1,11 +1,5 @@
 <h2 align="left">Hi👋!My name is Cristian Jiménez.</h2>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake Animation" />
-###
-
-<img src="https://private-user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif" width="200" height="200" alt="Additional Animation" />
-
 ---
 
 # 💫 About Me:
