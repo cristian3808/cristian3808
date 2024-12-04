@@ -1,8 +1,5 @@
-<h2 align="left">Hi👋!My name is Cristian Jiménez.</h2>
 
----
-
-# 💫 About Me:
+# 💫 Hi👋!My name is Cristian Jiménez:
 🛠️ Explorando constantemente nuevas tecnologías y herramientas para mejorar mis habilidades.<br>📚 Comprometido con el aprendizaje constante y el crecimiento como profesional.<br>🤝 Emocionado por trabajar en equipo y colaborar en proyectos que generen impacto.<br>🌍 Disfruto colaborar en proyectos que desafíen mis límites y generen un impacto real en la vida de las personas.
 
 # 💻 Tech Stack:
